@@ -11,7 +11,7 @@ In this project the Word Cloud created is based on responses made by agronomists
 
 **As a result we have the following image:**
 
-![](https://github.com/josehenriqueroveda/word-cloud/blob/master/answers_cloud.png)
+![]()
 
 ---
 
